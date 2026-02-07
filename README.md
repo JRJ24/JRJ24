@@ -11,7 +11,6 @@ ___
 ### 📊 Estadísticas
 
 [![JRJ24 GitHub stats](https://github-readme-stats.vercel.app/api?username=JRJ24)](https://github.com/JRJ24/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRJ24&show_icons=true&theme=radical)
 
 ### 🔗 Redes sociales
 
