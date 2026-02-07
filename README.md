@@ -1,7 +1,9 @@
-# Jonaifry Rodriguez
-___
+
 
 <div align="center">
+
+# Jonaifry Rodriguez
+___
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -18,26 +20,14 @@ ___
 <div align="left">
 
 ### [H&H Beauty Place](https://github.com/JRJ24/H-H-Beauty-Place)
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/H-H-Beauty-Place)
-
----
 
 ### [Hanny Nails Services](https://github.com/JRJ24/HannyNailsServices)
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/HannyNailsServices)
-
----
 
 ### [CAFSA Backend](https://github.com/JRJ24/cafsabackend)
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/cafsabackend)
-
----
 
 ### [Minor Motion](https://github.com/JRJ24/minor-motion)
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/minor-motion)
 
----
-
-### [Predicción de Precios](https://github.com/JRJ24/PrediccionPrices) : [![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/PrediccionPrices)
+### [Predicción de Precios](https://github.com/JRJ24/PrediccionPrices)
 
 </div>
 
