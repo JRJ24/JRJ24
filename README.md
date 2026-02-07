@@ -19,15 +19,17 @@ ___
 
 <div align="left">
 
-### [H&H Beauty Place](https://github.com/JRJ24/H-H-Beauty-Place)
+#### [Healthy-Family-Worship-Community](https://github.com/JRJ24/Healthy-Family-Worship-Community)
 
-### [Hanny Nails Services](https://github.com/JRJ24/HannyNailsServices)
+#### [H&H Beauty Place](https://github.com/JRJ24/H-H-Beauty-Place)
 
-### [CAFSA Backend](https://github.com/JRJ24/cafsabackend)
+#### [Hanny Nails Services](https://github.com/JRJ24/HannyNailsServices)
 
-### [Minor Motion](https://github.com/JRJ24/minor-motion)
+#### [CAFSA Backend](https://github.com/JRJ24/cafsabackend)
 
-### [Predicción de Precios](https://github.com/JRJ24/PrediccionPrices)
+#### [Minor Motion](https://github.com/JRJ24/minor-motion)
+
+#### [Predicción de Precios](https://github.com/JRJ24/PrediccionPrices)
 
 </div>
 
