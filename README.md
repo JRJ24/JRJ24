@@ -8,9 +8,9 @@ ___
 
 📫 Cómo contactarme: jona_yJR@proton.me
 
-### 📊 Estadísticas
+### Mis proyectos
 
-[![JRJ24 GitHub stats](https://github-readme-stats.vercel.app/api?username=JRJ24)](https://github.com/JRJ24/github-readme-stats)
+[![Comunidad Familia Adoracion Saludable](https://github.com/JRJ24/Healthy-Family-Worship-Community)](https://github.com/JRJ24/Healthy-Family-Worship-Community)
 
 ### 🔗 Redes sociales
 
