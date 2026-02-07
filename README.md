@@ -10,7 +10,7 @@ ___
 
 ### Mis proyectos
 
-[![Comunidad Familia Adoracion Saludable](https://github.com/JRJ24/Healthy-Family-Worship-Community)](https://github.com/JRJ24/Healthy-Family-Worship-Community)
+[![Comunidad Familia Adoracion Saludable](https://www.flaticon.com/free-icon/church_3656972)](https://github.com/JRJ24/Healthy-Family-Worship-Community)
 
 ### 🔗 Redes sociales
 
