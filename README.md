@@ -1,5 +1,6 @@
-## Jonaifry Rodriguez
+# Jonaifry Rodriguez
 ___
+
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,8 +37,7 @@ ___
 
 ---
 
-### [Predicción de Precios](https://github.com/JRJ24/PrediccionPrices)
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/PrediccionPrices)
+### [Predicción de Precios](https://github.com/JRJ24/PrediccionPrices) : [![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/PrediccionPrices)
 
 </div>
 
