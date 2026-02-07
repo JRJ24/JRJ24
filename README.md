@@ -14,7 +14,7 @@ ___
 
 ## 🚀 Mis Proyectos Destacados
 
-<div align="center">
+<div align="left">
 
 ### 💅 [H&H Beauty Place](https://github.com/JRJ24/H-H-Beauty-Place)
 **Sistema de gestión para salón de belleza**
