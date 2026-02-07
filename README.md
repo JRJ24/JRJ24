@@ -6,7 +6,7 @@ Soy desarrollador de aplicaciones web
 - 🌱 Estoy aprendiendo TypeScript y Next.js
 - 👯 Busco colaborar en proyectos open source
 - 💬 Pregúntame sobre desarrollo web full-stack
-- 📫 Cómo contactarme: jonaifry@ejemplo.com
+- 📫 Cómo contactarme: jona_yJR@proton.me
 
 ### 💻 Tecnologías
 
@@ -18,7 +18,7 @@ Soy desarrollador de aplicaciones web
 
 ### 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonaifry&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JRJ24&show_icons=true&theme=radical)
 
 ### 🔗 Redes sociales
 
