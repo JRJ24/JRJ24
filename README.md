@@ -16,41 +16,31 @@ ___
 
 <div align="left">
 
-### 💅 [H&H Beauty Place](https://github.com/JRJ24/H-H-Beauty-Place)
-**Sistema de gestión para salón de belleza**
-
+### [H&H Beauty Place](https://github.com/JRJ24/H-H-Beauty-Place)
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/H-H-Beauty-Place)
 
 ---
 
-### 💎 [Hanny Nails Services](https://github.com/JRJ24/HannyNailsServices)
-**Aplicación web para servicios de manicura**
-
+### [Hanny Nails Services](https://github.com/JRJ24/HannyNailsServices)
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/HannyNailsServices)
 
 ---
 
-### 🏢 [CAFSA Backend](https://github.com/JRJ24/cafsabackend)
-**API RESTful**
-
+### [CAFSA Backend](https://github.com/JRJ24/cafsabackend)
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/cafsabackend)
 
 ---
 
-### 🎬 [Minor Motion](https://github.com/JRJ24/minor-motion)
-**Plataforma personal**
-
+### [Minor Motion](https://github.com/JRJ24/minor-motion)
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/minor-motion)
 
 ---
 
-### 📊 [Predicción de Precios](https://github.com/JRJ24/PrediccionPrices)
-**Simulacion de un Modelo de Machine Learning para predicción**
-
+### [Predicción de Precios](https://github.com/JRJ24/PrediccionPrices)
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/PrediccionPrices)
 
 </div>
-___
+
 <div align="center"> 
 
 ### 🔗 Redes sociales
