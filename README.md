@@ -19,16 +19,12 @@ ___
 ### 💅 [H&H Beauty Place](https://github.com/JRJ24/H-H-Beauty-Place)
 **Sistema de gestión para salón de belleza**
 
-Plataforma web completa para la gestión de citas, clientes y servicios de un salón de belleza. Incluye sistema de reservas en tiempo real y panel de administración.
-
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/H-H-Beauty-Place)
 
 ---
 
 ### 💎 [Hanny Nails Services](https://github.com/JRJ24/HannyNailsServices)
 **Aplicación web para servicios de manicura**
-
-Sistema de reservas y catálogo de servicios para salón de uñas, con galería de diseños y gestión de citas online.
 
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/HannyNailsServices)
 
@@ -37,8 +33,6 @@ Sistema de reservas y catálogo de servicios para salón de uñas, con galería 
 ### 🏢 [CAFSA Backend](https://github.com/JRJ24/cafsabackend)
 **API RESTful**
 
-Backend robusto con autenticación, autorización y manejo de datos.
-
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/cafsabackend)
 
 ---
@@ -46,16 +40,12 @@ Backend robusto con autenticación, autorización y manejo de datos.
 ### 🎬 [Minor Motion](https://github.com/JRJ24/minor-motion)
 **Plataforma personal**
 
-Aplicación web para explorar y ver sobre VELVO.
-
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/minor-motion)
 
 ---
 
 ### 📊 [Predicción de Precios](https://github.com/JRJ24/PrediccionPrices)
 **Simulacion de un Modelo de Machine Learning para predicción**
-
-Sistema de predicción de precios utilizando algoritmos de machine learning y análisis de datos históricos.
 
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JRJ24/PrediccionPrices)
 
