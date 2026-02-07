@@ -7,7 +7,7 @@ ___
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/Mongo-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=144C2C)
-![C#](https://img.shields.io/badge/Csharp-4F029E?style=for-the-badge&logo=c#&logoColor=E7E6E8)
+![C#](https://img.shields.io/badge/Csharp-4F029E?style=for-the-badge&logo=csharp&logoColor=E7E6E8)
 
 </div>
 
